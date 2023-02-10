@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h2>I am Naimur</h2>
+      <h2>I am Parvez</h2>
     </main>
   )
 }
